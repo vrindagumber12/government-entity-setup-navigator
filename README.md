@@ -5,6 +5,9 @@ A standalone front-end prototype for an AI-enabled government entity setup platf
 ## What is included
 
 - Project creation / project switching concept
+- Jurisdiction context controls: country + optional state/province + optional city/municipality
+- Anonymous / jurisdiction-neutral mode with only administrative level retained
+- Anonymous mode disables jurisdiction-specific online research controls until a location is supplied
 - Evidence mode selector: selected documents, online research, or combined
 - Local file upload metadata and evidence register
 - 4-pillar / 12-component MECE institutional assessment
